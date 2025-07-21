@@ -1,3 +1,5 @@
+/* Finds the top 5 directors by average movie rating. */
+
 import pandas as pd
 
 ratings = pd.read_csv('rating.csv')
