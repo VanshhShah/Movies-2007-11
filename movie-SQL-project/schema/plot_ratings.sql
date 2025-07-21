@@ -1,3 +1,5 @@
+/* Python Script: Plot Ratings Distribution */
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
